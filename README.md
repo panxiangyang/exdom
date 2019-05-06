@@ -79,6 +79,8 @@ addClassName(li, 'selected');
 
 ### Other
 
+| Method             | Parameter  | Returns  | Describe     |
+| ------------------ | --------------- | -------- | ---------------- |
 | hide | (element: Element) | Element | Sets the display attributes to hide specified element. |
 | show | (element: Element) | Element | Control element display by setting display attribute.|
 | html | (element: Element, value?: string) | Element or String | Gets or sets the HTML or XML markup contained within the element. |
