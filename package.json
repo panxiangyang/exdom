@@ -1,7 +1,7 @@
 {
   "name": "exdom",
   "version": "1.0.0",
-  "description": "Extend string operation",
+  "description": "Extend Dom operation.",
   "main": "./dist/exdom.js",
   "es": "./dist/exdom.es.js",
   "umd": "./dist/exdom.umd.js",
